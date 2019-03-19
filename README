@@ -1,0 +1,10 @@
+This project contains Java examples
+
+Implemented as part of my personal training to refresh my Java skills. I put
+them available for future reference for myself and others if needed.
+
+Build with gradle
+    ./gradlew build
+
+Author: Erno Pakarinen (erpakari@gmail.com)
+Twitter: @erpakari
